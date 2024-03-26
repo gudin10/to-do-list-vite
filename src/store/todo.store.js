@@ -10,6 +10,8 @@ const state = {
         new Todo('Peidra del alma'),
         new Todo('Peidra ancha'),
         new Todo('Peidra tieme'),
+        new Todo('Peidra realidad'),
+        new Todo('Peidra Fuego'),
     ],
     filter : Filters.All
 }
